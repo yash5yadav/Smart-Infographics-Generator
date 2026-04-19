@@ -26,7 +26,7 @@ This project converts simple dataset values into visual charts like bar and pie 
 ![Line](line.png)
 
 ### Comparision chart
-![Comparision](comparision.png)
+![Comparison](comparison.png)
 
 ## Author
 Yash Kumar
